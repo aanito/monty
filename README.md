@@ -1,1 +1,1 @@
-Lets move to working with the queue and stack things
+Let's think about the queue thing and the stack as well
